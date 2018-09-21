@@ -1,11 +1,16 @@
 _repo: Reports-Relating-to-the-Sanitary-Condition-of-the-City-of-London_54622
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54622-h/images/cover.jpg
 creator:
   author:
     agent_name: Simon, John
     gutenberg_agent_id: '47957'
     url: http://www.gutenberg.org/2009/agents/47957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54622#Reports-Relating-to-the-Sanitary-Condition-of-the-City-of-London
 gutenberg_issued: '2017-04-28'
 gutenberg_type: Text
 identifiers:
